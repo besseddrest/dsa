@@ -1,0 +1,1 @@
+- Given a list of list of numbers, find the largest and smallest number and return a sum of the largest and smallest numbers for each row. Return sum of all the numbers from each row.
