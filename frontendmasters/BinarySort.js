@@ -1,4 +1,4 @@
-function binarySearch(haystack, needle) {
+function binarySort(haystack, needle) {
     let lo = 0
     let hi = arr.length
 
